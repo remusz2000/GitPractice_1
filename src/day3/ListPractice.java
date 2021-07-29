@@ -6,4 +6,6 @@ public class ListPractice {
 
     // adding items
 
+    // print out
+
 }
