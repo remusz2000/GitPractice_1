@@ -8,6 +8,7 @@ public class Movie {
 
     public static void main(String[] args) {
         //Added some awesome things to movie class
+        // done with tc100
     }
 
 
