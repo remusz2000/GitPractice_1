@@ -8,4 +8,6 @@ public class Conflict {
     //Is the final merge result
  //This is collection branch.
 
+    // more work on collection2
+
 }
