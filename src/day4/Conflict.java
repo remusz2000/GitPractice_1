@@ -9,4 +9,6 @@ public class Conflict {
  //This is collection branch.
     // this is change collection2 branch does not know about
 
+    // more work on collection2
+
 }
